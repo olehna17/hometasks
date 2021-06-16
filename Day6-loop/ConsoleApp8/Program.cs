@@ -10,7 +10,7 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter value A");
+            Console.WriteLine("Enter value A111");
             int A = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter value B");
