@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lets begin first standard cours day");
+            Console.WriteLine("Lets begin first standard cours day11");
         }
     }
 }
